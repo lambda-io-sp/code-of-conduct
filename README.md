@@ -9,7 +9,7 @@ speakers, sponsors and volunteers at Lambda I/O events (conferences, meetups etc
 
 - [English](en/)
 - [Español](es/)
-- [Potuguês](pt/)
+- [Português](pt/)
 
 ## Credits
 
